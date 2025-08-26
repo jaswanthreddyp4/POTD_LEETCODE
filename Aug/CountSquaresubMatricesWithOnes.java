@@ -1,5 +1,4 @@
-public class New21Game {
-    
+public class CountSquaresubMatricesWithOnes {
     public static void main(String[] args) {
         
     }
